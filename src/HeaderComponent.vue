@@ -32,7 +32,7 @@
           >
             <span class="sr-only">Open sidebar</span>
             <i
-              class="fad fa-bars dark:text-red-200 text-3xl text-slate-200"
+              class="fad fa-bars dark:text-red-500 text-3xl text-slate-200"
             ></i>
           </button>
         </div>

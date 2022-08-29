@@ -6,9 +6,8 @@
           <div>
             <p class="dark:text-red-400 text-xl">Hi, my name is</p>
             <h1 class="big-title">
-              Brian Azukae<span class="font-bold underline decoration-red-500"
-                >me.</span
-              >
+              <span class="font-bold underline decoration-red-500">BR</span>ian
+              Azukaeme
             </h1>
             <h1 class="text-5xl text-slate-200 font-bold">
               I build beautiful things for the web.
@@ -32,4 +31,5 @@
 </template>
 <script>
 export default {};
+import {} from "module";
 </script>
