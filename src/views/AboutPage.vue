@@ -71,6 +71,6 @@ function downloadResume() {
   link.download = "front-end-developer-vue.jpg";
 
   link.click();
-  alert("Downloading resume jpg.....");
+  alert("Downloading a resume jpg.....");
 }
 </script>
