@@ -66,7 +66,10 @@ const contacts = [
 
 function downloadResume() {
   const link = document.createElement("a");
-  link.href = "src/assets/downloads/front-end-developer-vue.jpg";
+  link.href = new URL(
+    "../assets/downloads/front-end-developer-vue.jpg",
+    import.meta.url
+  ).href;
 
   link.download = "front-end-developer-vue.jpg";
 
