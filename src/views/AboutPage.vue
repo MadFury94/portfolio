@@ -67,8 +67,10 @@ const contacts = [
 function downloadResume() {
   const link = document.createElement("a");
   link.href = "src/downloads/front-end-developer-vue.pdf";
+
   link.download = "front-end-developer-vue.pdf";
 
   link.click();
+  alert("Downloading resume");
 }
 </script>

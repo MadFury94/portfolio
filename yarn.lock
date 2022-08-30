@@ -1297,9 +1297,9 @@
   "version" "2.0.1"
 
 "caniuse-lite@^1.0.30001286", "caniuse-lite@^1.0.30001294":
-  "integrity" "sha512-WfrtPEoNSoeATDlf4y3QvkwiELl9GyPLISV5GejTbbQRtQx4LhsXmc9IQ6XCL2d7UxCyEzToEZNMeqR79OUw8Q=="
-  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001296.tgz"
-  "version" "1.0.30001296"
+  "integrity" "sha512-MpiCqJGhBkHgpyimE9GWmZTnyHyEEM35u115bD3QBrXpjvL/JgcP8cUhKJshfmg4OtEHFenifcK5sZayEw5tvQ=="
+  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001385.tgz"
+  "version" "1.0.30001385"
 
 "canvas-sketch-cli@^1.11.14":
   "integrity" "sha512-i2EyI8WzK4LLv1RqSzK1PlA0mikdaSNSWv9tU4rDj1kgu8rm4GJtdoWwBkmN1X/taz3k2Ux4TbE0aJiCNyUTSg=="
@@ -2182,11 +2182,6 @@
   "integrity" "sha512-ginqzK3J90Rd4/Yz7qRrqUeIpe3TwSXTPPZtPne7tGBPeAaQiU8qt4fpKApnxHcq1AwtUdHVg5P77x/yrggG8Q=="
   "resolved" "https://registry.npmjs.org/es6-promisify/-/es6-promisify-7.0.0.tgz"
   "version" "7.0.0"
-
-"esbuild-windows-64@0.13.15":
-  "integrity" "sha512-9aMsPRGDWCd3bGjUIKG/ZOJPKsiztlxl/Q3C1XDswO6eNX/Jtwu4M+jb6YDH9hRSUflQWX0XKAfWzgy5Wk54JQ=="
-  "resolved" "https://registry.npmjs.org/esbuild-windows-64/-/esbuild-windows-64-0.13.15.tgz"
-  "version" "0.13.15"
 
 "esbuild@^0.13.12":
   "integrity" "sha512-raCxt02HBKv8RJxE8vkTSCXGIyKHdEdGfUmiYb8wnabnaEmHzyW7DCHb5tEN0xU8ryqg5xw54mcwnYkC4x3AIw=="
