@@ -15,9 +15,10 @@
             <p class="text-justify py-4 lg:w-[600px] regular-text">
               I am a front-end developer in Port-Harcourt, Nigeria. ome of my
               past professional experiences includes working as the lead
-              designer at Katalyst in Nigeria as their lead designer. Utilizing
-              Vue, React, and other current web development tools and practises,
-              I specialise in developing engaging experiences and functional
+              designer at Katalyst Technologies, a top IT firm in Port
+              Harcouurt. in Nigeria as their lead designer. Utilizing Vue,
+              React, and other current web development tools and practises, I
+              specialise in developing engaging experiences and functional
               interfaces. I am interested in learning and working with new web
               development technologies that may be used to create
               well-functioning and user-friendly websites and online
