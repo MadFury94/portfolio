@@ -67,11 +67,11 @@ const contacts = [
 function downloadResume() {
   const link = document.createElement("a");
   link.href = new URL(
-    "../assets/downloads/front-end-developer-vue.jpg",
+    "../assets/downloads/front-end-developer-vue.pdf",
     import.meta.url
   ).href;
 
-  link.download = "front-end-developer-vue.jpg";
+  link.download = "front-end-developer-vue.pdf";
 
   link.click();
 }
