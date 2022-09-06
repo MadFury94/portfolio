@@ -21,7 +21,7 @@
         xmlns="http://www.w3.org/2000/svg"
         x="0"
         y="0"
-        viewBox="0 0 500 289"
+        viewBox="0 0 430.85 360.64"
         xml:space="preserve"
         class="fill-current text-red-500 regular-text h-10"
       >

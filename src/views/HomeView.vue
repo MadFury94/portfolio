@@ -6,23 +6,24 @@
           <div>
             <p class="dark:text-red-400 text-xl">Hi, my name is</p>
             <h1 class="big-title">
-              <span class="font-bold underline decoration-red-500">BR</span>ian
+              br<span class="font-bold underline decoration-red-500">IAN</span>
               Azukaeme
             </h1>
             <h1 class="text-5xl text-slate-200 font-bold">
               I build beautiful things for the web.
             </h1>
             <p class="text-justify py-4 lg:w-[600px] regular-text">
-              I am a front-end developer in Port-Harcourt, Nigeria. ome of my
+              I am a front-end developer in Port-Harcourt, Nigeria. One of my
               past professional experiences includes working as the lead
-              designer at Katalyst Technologies, a top IT firm in Port
-              Harcouurt. in Nigeria as their lead designer. Utilizing Vue,
-              React, and other current web development tools and practises, I
-              specialise in developing engaging experiences and functional
-              interfaces. I am interested in learning and working with new web
-              development technologies that may be used to create
-              well-functioning and user-friendly websites and online
-              applications.
+              designer at Katalyst Technologies, a top IT firm in Port Harcourt,
+              Nigeria as their lead designer. Utilizing Vue, React and other
+              current web development tools and practises, I specialise in
+              developing engaging experiences and functional interfaces. I am
+              interested in learning and working with new web development
+              technologies that may be used to create well-functioning and
+              user-friendly websites and online applications. I am skilled in
+              WordPress website Development having started off as a WordPress
+              Developer and i have over 9 years experience in this field.
             </p>
           </div>
         </main>
