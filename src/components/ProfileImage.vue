@@ -1,7 +1,7 @@
 <template>
   <!--  <img class="rounded-full h-[200px] clip-circle" src="@/assets/img/me.png " />-->
   <div class="p-8 css-selector clip-circle">
-    <img class="rounded-full h-[200px]" src="@\assets\img\me.jpeg" />
+    <img class="rounded-full h-[200px]" src="@\assets\img\portlogo.png" />
   </div>
 </template>
 <script>
