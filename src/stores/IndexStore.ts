@@ -3,7 +3,7 @@ import { defineStore } from "pinia";
 export const appMenuStore = defineStore({
   id: "appMenu",
   state: () => ({
-    isOpen: false,
+    isOpen: true,
   }),
   actions: {
     toggle() {
