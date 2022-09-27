@@ -101,7 +101,7 @@ let categories = ref({
     { title: "Postman", image: "" },
     { title: "Insomnia", image: "" },
     { title: "Microsoft word", image: "" },
-    { title: "Microsoft Power point", image: "" },
+    { title: "Microsoft Powerpoint", image: "" },
   ],
 });
 
