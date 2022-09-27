@@ -4,7 +4,7 @@
       <div class="">
         <main class="flex flex-col lg:flex-row items-center">
           <div>
-            <p class="dark:text-red-400 text-xl">Hi, my name is</p>
+            <p class="dark:text-red-500 text-xl">Hi, my name is</p>
             <h1 class="big-title uppercase">
               br<span class="font-bold underline decoration-red-500">IAN</span>
               Azukaeme

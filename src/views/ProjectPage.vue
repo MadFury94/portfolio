@@ -52,7 +52,7 @@
             </h1>
 
             <div :class="isOddNumber(index) ? 'text-left' : 'lg:text-right'">
-              <div class="bg-gray-100 dark:bg-slate-800 p-4">
+              <div class="bg-gray-100 dark:bg-emerald-800 p-4">
                 <div>
                   <p class="">{{ item.description }}</p>
                 </div>
@@ -196,7 +196,7 @@ const projects = ref([
   {
     name: "My Portfolio Website",
     link: "https://brianazukaeme.me",
-    img: "port.PNG",
+    img: "port.png",
     github: "https://github.com/MadFury94/portfolio.git",
     description: `My Portfolio website that  displays my work and my skills. it features a light and dark mode, for users with accessibility challenges`,
     roles: ["Ideation,", "Design,", "Ui / Ux, ", "Frontend"],

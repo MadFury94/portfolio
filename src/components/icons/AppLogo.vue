@@ -15,7 +15,7 @@
     </svg>-->
     <!--    animated logo-->
     <router-link :to="{ name: 'Home' }">
-      <svg viewBox="0 0 442 207" class="h-10 pl-4 fill-red-500">
+      <svg viewBox="0 0 442 207" class="fill-red-500 h-10">
         <path
           d="m25.21 121.97-.24.28-20.38-18.32.24-.26z"
           class="svg-elem-1"
