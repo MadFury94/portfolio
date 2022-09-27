@@ -52,7 +52,7 @@
             </h1>
 
             <div :class="isOddNumber(index) ? 'text-left' : 'lg:text-right'">
-              <div class="bg-gray-100 dark:bg-emerald-800 p-4">
+              <div class="bg-gray-100 dark:bg-slate-900 p-4">
                 <div>
                   <p class="">{{ item.description }}</p>
                 </div>

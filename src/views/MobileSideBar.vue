@@ -3,7 +3,7 @@
     <TransitionRoot as="template" :show="appMenu.isOpen">
       <Dialog
         as="div"
-        class="fixed inset-0 flex z-40 lg:hidden"
+        class="fixed inset-0 flex z-40 lg:hidden hover:text-slate-900"
         @close="toggleSideBar"
       >
         <TransitionChild
@@ -27,7 +27,7 @@
           leave-to="-translate-x-full"
         >
           <div
-            class="relative flex-1 flex flex-col max-w-xs w-full pt-5 pb-4 bg-emerald-700"
+            class="relative flex-1 flex flex-col max-w-xs w-full pt-5 pb-4 bg-black"
           >
             <TransitionChild
               as="template"
@@ -53,7 +53,7 @@
               <div>
                 <AppLogo />
               </div>
-              <div class="flex flex-col space-y-10 pt-10">
+              <div class="flex flex-col space-y-10 pt-10 hover:text-slate-900">
                 <ul v-for="(item, index) in menuItems" :key="index">
                   <li @click="toggleSideBar" class="flex items-center">
                     <router-link

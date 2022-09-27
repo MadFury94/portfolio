@@ -15,7 +15,7 @@ export default {
   fill: #f4dd0c;
 }
 .st1 {
-  fill: #f91530;
+  fill: #065f46;
 }
 .clip-circle {
   //clip-path: circle(85px at center);
@@ -26,7 +26,7 @@ export default {
 }
 
 .css-selector {
-  background: linear-gradient(270deg, #f00a0a, #0a93f0, #f63838);
+  background: linear-gradient(270deg, #065f46, #0a93f0, #065f46);
   background-size: 800% 800%;
 
   -webkit-animation: AnimationName 10s ease infinite;

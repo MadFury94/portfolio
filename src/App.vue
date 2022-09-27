@@ -30,7 +30,7 @@ if (
             <SideBarComponent />
           </div>
           <div
-            class="bg-[#f8f8f8] dark:bg-gray-700 h-screen col-span-3 overflow-y-scroll"
+            class="bg-[#f8f8f8] dark:bg-black h-screen col-span-3 overflow-y-scroll"
           >
             <router-view v-slot="{ Component, route }" class="md:p-20 px-4">
               <transition name="route" mode="out-in">

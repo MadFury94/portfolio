@@ -21,7 +21,7 @@
                   <h1 class="text-xl font-medium">
                     {{ item.role }}
                   </h1>
-                  <h1 class="text-red-600 dark:text-red-400 font-medium">
+                  <h1 class="text-slate-900 dark:text-slate-900 font-medium">
                     {{ item.company }}
                   </h1>
                   <div class="pt-2">

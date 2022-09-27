@@ -19,9 +19,9 @@
               <button
                 :class="[
                   'w-full py-2.5  leading-5 font-medium dark:text-white text-xl font-bold rounded-lg',
-                  'focus:outline-none ring-offset-2 ring-offset-blue-400 ring-slate-800 dark:ring-green-300 ring-opacity-60',
+                  'focus:outline-none ring-offset-2 ring-offset-blue-400 ring-slate-800 dark:ring-slate-900 ring-opacity-60',
                   selected
-                    ? 'dark:text-green-300 border border-green-600 dark:border-green-400 font-bold shadow'
+                    ? 'dark:text-green-300 border border-slate-800 dark:border-slate-900 font-bold shadow'
                     : 'text-blue-100 hover:bg-white/[0.12] dark:hover:text-white-300 hover:text-gray-700',
                 ]"
               >
@@ -31,7 +31,7 @@
           </TabList>
 
           <TabPanels
-            class="mt-2 regular-text border border-green-600 dark:border-green-400 rounded-md"
+            class="mt-2 regular-text border border-slate-900 dark:border-slate-900 rounded-md"
           >
             <TabPanel
               v-for="(posts, idx) in Object.values(categories)"
