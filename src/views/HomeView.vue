@@ -1,11 +1,11 @@
 <template>
   <div>
-    <div class="flex h-screen justify-center items-center">
+    <div class="flex h-screen justify-center items-center sm:px-10">
       <div class="">
         <main class="flex flex-col lg:flex-row items-center">
           <div>
             <p class="dark:text-slate-900 text-xl">Hi, my name is</p>
-            <h1 class="big-title uppercase">
+            <h1 class="big-title uppercase hover:text-slate-900">
               br<span class="font-bold underline decoration-slate-900"
                 >IAN</span
               >
@@ -14,7 +14,9 @@
             <h1 class="text-5xl text-slate-200 font-bold">
               I build beautiful things for the web.
             </h1>
-            <p class="text-justify py-4 lg:w-[600px] regular-text">
+            <p
+              class="text-justify py-4 lg:w-[600px] regular-text border-2 border-r-2 px-2 border-slate-900 rounded-md"
+            >
               I am a front-end developer in Port-Harcourt, Nigeria. One of my
               past professional experiences includes working as the lead
               designer at Katalyst Technologies, a top IT firm in Port Harcourt,
