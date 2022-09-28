@@ -14,9 +14,7 @@
             <h1 class="text-5xl text-slate-200 font-bold">
               I build beautiful things for the web.
             </h1>
-            <p
-              class="text-justify py-4 lg:w-[600px] regular-text border-2 border-r-2 px-2 border-slate-900 rounded-md"
-            >
+            <p class="text-justify py-4 lg:w-[600px] regular-text">
               I am a front-end developer in Port-Harcourt, Nigeria. One of my
               past professional experiences includes working as the lead
               designer at Katalyst Technologies, a top IT firm in Port Harcourt,
