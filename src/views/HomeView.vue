@@ -33,7 +33,7 @@
     </div>
   </div>
 </template>
-<script>
+<script lang="ts">
 export default {};
 import {} from "module";
 </script>
