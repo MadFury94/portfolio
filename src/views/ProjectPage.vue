@@ -243,6 +243,13 @@ const projects = ref([
     description: `Sprynx Multi is a company website built with wordpress, it features a admin dashboard for managing content and updating content about the company oin the website.`,
     roles: ["Web developer"],
   },
+  {
+    name: "Weather-App",
+    link: "https://weather-app-ux23.vercel.app/",
+    img: "weather.png",
+    description: `I developed the weather-app as a personal project utilizing Vue.js and tailwind while also implementing an API from open weather. It aids users in knowing the weather situation of anywhere in the world for a week straight`,
+    roles: ["Web developer"],
+  },
 ]);
 
 const showImage = ref(false);
