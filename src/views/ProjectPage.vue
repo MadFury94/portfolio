@@ -196,7 +196,7 @@ const projects = ref([
   {
     name: "My Portfolio Website",
     link: "https://brianazukaeme.me",
-    img: "port.png",
+    img: "port.jpg",
     github: "https://github.com/MadFury94/portfolio.git",
     description: `My Portfolio website that  displays my work and my skills. it features a light and dark mode, for users with accessibility challenges`,
     roles: ["Ideation,", "Design,", "Ui / Ux, ", "Frontend"],
@@ -239,14 +239,14 @@ const projects = ref([
   {
     name: "Sprynx Multi",
     link: "https://www.sprynxmulti.com/",
-    img: "sprynxmulti.png",
+    img: "sprynxmulti.jpg",
     description: `Sprynx Multi is a company website built with wordpress, it features a admin dashboard for managing content and updating content about the company oin the website.`,
     roles: ["Web developer"],
   },
   {
     name: "Weather-App",
     link: "https://weather-app-ux23.vercel.app/",
-    img: "weather.png",
+    img: "weather.jpg",
     description: `I developed the weather-app as a personal project utilizing Vue.js and tailwind while also implementing an API from open weather. It aids users in knowing the weather situation of anywhere in the world for a week straight`,
     roles: ["Web developer"],
   },
