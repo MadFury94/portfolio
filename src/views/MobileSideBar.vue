@@ -15,7 +15,7 @@
           leave-from="opacity-100"
           leave-to="opacity-0"
         >
-          <DialogOverlay class="fixed inset-0 bg-gray-600 bg-opacity-75" />
+          <DialogOverlay class="fixed inset-0 bg-indigo-700 bg-opacity-75" />
         </TransitionChild>
         <TransitionChild
           as="template"
@@ -27,7 +27,7 @@
           leave-to="-translate-x-full"
         >
           <div
-            class="relative flex-1 flex flex-col max-w-xs w-full pt-5 pb-4 bg-black"
+            class="relative flex-1 flex flex-col max-w-xs w-full pt-5 pb-4 bg-gray-800"
           >
             <TransitionChild
               as="template"

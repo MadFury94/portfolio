@@ -1,6 +1,6 @@
 <template>
   <div class="py-20">
-    <h1 class="title font-bold">My Finished Projects</h1>
+    <h1 class="title font-bold">My Portfolio</h1>
     <div class="hidden lg:inline">
       <div
         v-for="(item, index) in projects"
@@ -52,7 +52,7 @@
             </h1>
 
             <div :class="isOddNumber(index) ? 'text-left' : 'lg:text-right'">
-              <div class="bg-gray-100 dark:bg-slate-900 p-4">
+              <div class="bg-gray-100 dark:bg-gray-700 rounded-full p-4">
                 <div>
                   <p class="">{{ item.description }}</p>
                 </div>
@@ -62,14 +62,14 @@
                 :class="isOddNumber(index) ? '' : 'lg:justify-end'"
               >
                 <div>
-                  <h3 class="mt-4">Responsibility</h3>
+                  <h3 class="mt-4 text-slate-900">Responsibility</h3>
                   <ul
-                    class="flex flex-row space-x-2 text-slate-200 font-medium pb-4 text-right"
+                    class="flex flex-row space-x-2 font-medium pb-4 text-right text-slate-900"
                   >
                     <li
                       v-for="(roles, index) in item.roles"
                       :key="index"
-                      class=""
+                      class="text-slate-900"
                     >
                       {{ roles }}
                     </li>
@@ -138,9 +138,9 @@
           </h1>
 
           <div :class="isOddNumber(index) ? 'text-left' : 'lg:text-right'">
-            <div class="bg-gray-100 dark:bg-slate-800 p-4">
+            <div class="bg-gray-100 dark:bg-gray-700 rounded-xl p-4">
               <div>
-                <p class="">{{ item.description }}</p>
+                <p>{{ item.description }}</p>
               </div>
             </div>
             <div
@@ -148,14 +148,14 @@
               :class="isOddNumber(index) ? '' : 'lg:justify-end'"
             >
               <div>
-                <h3 class="mt-4">Responsibility</h3>
+                <h3 class="mt-4 text-slate-900">Responsibility</h3>
                 <ul
                   class="flex flex-row space-x-2 text-slate-200 font-medium pb-4 text-right"
                 >
                   <li
                     v-for="(roles, index) in item.roles"
                     :key="index"
-                    class=""
+                    class="text-slate-900"
                   >
                     {{ roles }}
                   </li>
@@ -193,14 +193,6 @@
 import { computed, ref } from "vue";
 
 const projects = ref([
-  {
-    name: "My Portfolio Website",
-    link: "https://brianazukaeme.me",
-    img: "port.jpg",
-    github: "https://github.com/MadFury94/portfolio.git",
-    description: `My Portfolio website that  displays my work and my skills. it features a light and dark mode, for users with accessibility challenges`,
-    roles: ["Ideation,", "Design,", "Ui / Ux, ", "Frontend"],
-  },
   {
     name: "H2O Doorstep Water Delivery",
     link: "https://h2o.ng",
@@ -249,6 +241,14 @@ const projects = ref([
     img: "weather.jpg",
     description: `I developed the weather-app as a personal project utilizing Vue.js and tailwind while also implementing an API from open weather. It aids users in knowing the weather situation of anywhere in the world for a week straight`,
     roles: ["Web developer"],
+  },
+  {
+    name: "My Portfolio Website",
+    link: "https://brianazukaeme.me",
+    img: "port.jpg",
+    github: "https://github.com/MadFury94/portfolio.git",
+    description: `My Portfolio website that  displays my work and my skills. it features a light and dark mode, for users with accessibility challenges`,
+    roles: ["Ideation,", "Design,", "Ui / Ux, ", "Frontend"],
   },
 ]);
 

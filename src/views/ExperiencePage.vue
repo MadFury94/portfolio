@@ -56,11 +56,11 @@ const experiences = ref([
     company: "Katalyst Technologies",
     role: "Lead Front End Developer",
     description: [
-      "Managed website development projects from initial design through completion, optimizing all cross-browser and multi-platform compatibility.",
-      "Work closely with programmers and clients to meet project requirements, goals, and desired functionality.",
-      "Delivered several WordPress websites and web application for small to medium-sized businesses.",
+      "Conceptualized and designed WebApps prototypes using UX/UI frameworks such as Figma, Pen Pots, and Adobe Illustrator. ",
+      "Contributed to MobileApp Development, resulting in a 29% increase in e-commerce sales.",
+      "Trained over 50 staff members on inner website functions.",
       "Developed websites from front to backend using Vue js, Node js, and Mongodb.",
-      "Conduct training for clients on handling website content management systems.",
+      "Built responsive websites using HTML, CSS, JavaScript, WordPress, Magento, and modern front-end technologies such as VueJs from prototypes that I designed.",
     ],
   },
 
@@ -69,11 +69,13 @@ const experiences = ref([
     role: "Product Designer",
     description: [
       "Performed ideation, sketching and wireframing.",
+      "As a Social Media and Online Engagements Specialist at Wildstream, I was responsible for managing and growing our presence across all social media platforms. This included creating and scheduling engaging content, responding to user inquiries and feedback, and analyzing metrics to identify trends and areas for improvement. I was also involved in managing customer inquiries and feedback, and working with the product and development teams to address any issues that arose. During my tenure, I was able to drive significant engagement and growth across all social media channels, helping to establish Wildstream as a leader in the music streaming industry.",
       "Assessed UX and UI design for technical feasibility and usability",
+      "My excellent communication and problem-solving skills, passion for music, and dedication to providing top-notch customer service were key assets to the Wildstream team.",
     ],
   },
   {
-    company: "Disenvi",
+    company: "SprynxMulti",
     role: "Lead designer",
     description: [
       "Implemented websites, mobile application, and landing pages from concept to development",
@@ -86,10 +88,10 @@ const experiences = ref([
     company: "ANBE Nigeria",
     role: "Lead Web designer",
     description: [
-      "Implemented websites, mobile application, and landing pages from concept to development",
-      "Standardized all output with a new, responsive, mobile-first approach and strategy",
-      "Assessed UX and UI design for technical feasibility and usability",
-      "collaborated with product team members to implement new featues development",
+      "Designed and implemented highly complex, dynamic websites using WordPress and Vue.js, incorporating advanced features such as e-commerce functionality and custom security protocols",
+      "Analyzed user behavior and data analytics to optimize website performance and user experiencey",
+      "Conducted in-depth testing and review of website designs to ensure optimal responsiveness, clarity, and effectiveness across all devices and platforms",
+      "Mentored junior team members in website development best practices and technologies",
     ],
   },
 ]);
