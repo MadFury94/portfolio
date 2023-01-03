@@ -4,7 +4,7 @@
       <AppLogo class="lg:hidden block" />
       <div></div>
       <div class="flex items-center space-x-4">
-        <button class="cursor-pointer text-red-400 mr-4" @click="setTheme">
+        <button class="cursor-pointer text-indigo-700 mr-4" @click="setTheme">
           <i
             class="fad fa-lightbulb-on dark:text-[#fce93c] text-3xl text-slate-200"
           ></i>
@@ -32,7 +32,7 @@
           >
             <span class="sr-only">Open sidebar</span>
             <i
-              class="fad fa-bars dark:text-red-500 text-3xl text-slate-200"
+              class="fad fa-bars dark:text-indigo-800 text-3xl text-slate-200"
             ></i>
           </button>
         </div>

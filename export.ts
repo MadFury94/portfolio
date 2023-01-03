@@ -167,13 +167,13 @@ export const menuItems = [
     name: "Home",
     icon: "fad fa-home-lg-alt",
   },
-  {
-    title: "About Me",
-    link: "/about",
-    name: "About",
+  // {
+  //   title: "About Me",
+  //   link: "/about",
+  //   name: "About",
 
-    icon: "fad fa-info-circle",
-  },
+  //   icon: "fad fa-info-circle",
+  // },
   {
     title: "Experience",
     link: "/experience",
@@ -196,4 +196,16 @@ export const menuItems = [
     link: "/skills",
     icon: "fad fa-sign-in-alt",
   },
+];
+export const workItem = [
+  
+  {
+    title: "work",
+    name: "Work",
+
+    link: "/work",
+    icon: "fad fa-address-card",
+  },
+
+  
 ];

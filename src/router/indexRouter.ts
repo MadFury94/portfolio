@@ -1,3 +1,4 @@
+import TutorPageVue from "@/views/TutorPage.vue";
 import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 const About = () => import("../views/AboutPage.vue");
@@ -38,6 +39,11 @@ const router = createRouter({
       path: "/skills",
       name: "Skill",
       component: Skills,
+    },
+     {
+      path: "/tutor",
+      name: "Tutoring",
+      component: TutorPageVue,
     },
     /*    {
       path: "/canvas-sketch",
