@@ -240,7 +240,7 @@ const projects = ref([
   },
   {
     name: "BigBen Fashion",
-    link: "https://www.outboxperience.com/",
+    link: "https://www.bigbenfashionnig.com/",
     img: "bigben.jpg",
     description: `Big Ben Fashion is an e-commerce website developed using WordPress for an online fashion retail company. The website features a content management system (CMS) for managing and updating content, and was designed to provide a user-friendly platform for customers to browse and purchase fashion products.`,
     roles: ["Lead Web developer"],
