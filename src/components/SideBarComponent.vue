@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex h-screen justify-center items-center regular-text border-r border-r-slate-200"
+    class="flex bg-gray-700 h-screen justify-center items-center regular-text border-r border-r-slate-200"
   >
     <div>
       <AppLogo />

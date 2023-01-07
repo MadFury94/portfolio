@@ -94,6 +94,27 @@ const experiences = ref([
       "Mentored junior team members in website development best practices and technologies",
     ],
   },
+  {
+    company: "Simps Home",
+    role: "Senior Web Developer",
+    description: [
+      "Developed a WordPress-based website for a real estate company",
+      "Customized the appearance and functionality of the website using plugins and custom code.",
+      "Added and organized content on the website, including information about properties for sale or rent, descriptions of the company and its services, and contact information.",
+      "Implemented features specific to the real estate industry, such as property listings with search and filtering capabilities, and the ability to request appointments or showings.",
+      "Conducted testing to ensure the website was functioning properly and was user-friendly for customers.",
+    ],
+  },
+  {
+    company: "Big Ben Fashion",
+    role: "Senior WordPress Developer",
+    description: [
+      "Developed an e-commerce website for the online fashion retail company using WordPress.",
+      "Customized the appearance and functionality of the website using plugins and custom code.",
+      "Added and organized products and content on the website, including product descriptions, images, and pricing information.",
+      "Conducted testing to ensure the website was functioning properly and was user-friendly for customers.",
+    ],
+  },
 ]);
 </script>
 

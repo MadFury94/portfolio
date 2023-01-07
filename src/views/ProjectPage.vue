@@ -197,8 +197,7 @@ const projects = ref([
     name: "H2O Doorstep Water Delivery",
     link: "https://h2o.ng",
     img: "h2o.jpg",
-    description: `H2O is a doorstep water delivery service, that features a payment system, and a delivery system.
-     it is built with an administrator for to manage products and process orders`,
+    description: `H2O is an e-commerce application that allows customers to purchase water products online. It was developed using Vue.js and Figma was utilized for prototyping, wireframing, and ideation during the development process`,
     roles: ["Ideation,", "Design,", "Ui / Ux, ", "Frontend"],
   },
   {
@@ -207,9 +206,7 @@ const projects = ref([
     github: "https://github.com/Katalyst33/grand-front",
     img: "grand-eagle.jpg",
 
-    description: `Grand Eagle Travels is a travel agency web application for users to book and process there travel destinations with the agency
- it features a  administrator dashboard for managing travel destinations, processing personal
- information and user.  it also features  a user dashboard for users to provide information and manage destination.`,
+    description: `Grand Eagle Travels is a web-based travel agency application that allows users to book and process travel destinations with the agency. It features an administrator dashboard for managing travel destinations and processing personal information, as well as a user dashboard for users to provide information and manage their destination. The application was developed to provide a convenient and efficient platform for booking travel arrangements.`,
 
     roles: ["Ideation,", "Ui / Ux, ", "Frontend,", "Backend "],
   },
@@ -217,23 +214,36 @@ const projects = ref([
     name: "Wildstream Music",
     link: "https://www.wildstream.ng/",
     img: "wildstream.jpg",
-    description: `Wildstream music is one of the largest Nigeria based music streaming service for local and international artists.
-     nicked named the soundcloud of Nigeria. it boast a  daily uploads of over 1000 songs.`,
+    description: `Wildstream Music is a Nigeria-based music streaming service that offers a platform for local and international artists to share their work. It has been nicknamed the "Soundcloud of Nigeria" due to its large size and daily uploads of over 1000 songs. The service has been designed with a focus on user experience and interface design, with the goal of providing an enjoyable and easy-to-use platform for music discovery and streaming.`,
     roles: ["Design,", "Ui / Ux,"],
   },
   {
     name: "Katalyst Technologies",
     link: "https://katalyst.tech/",
     img: "katalyst.jpg",
-    description: `Katalyst Technologies is a company website built with wordpress, it features a admin dashboard for managing content and updating content about the company oin the website.`,
+    description: `Katalyst Technologies is a company website developed using WordPress. It features an administrative dashboard for managing and updating content about the company on the website. The website was designed to provide information about the company and its services to visitors in a professional and user-friendly manner.`,
     roles: ["Web developer"],
   },
   {
     name: "Sprynx Multi",
     link: "https://www.sprynxmulti.com/",
     img: "sprynxmulti.jpg",
-    description: `Sprynx Multi is a company website built with wordpress, it features a admin dashboard for managing content and updating content about the company oin the website.`,
-    roles: ["Web developer"],
+    description: `Sprynx Multi is a WordPress-based company website that offers a range of car washing services. It includes an administrative dashboard for managing and updating content on the website, as well as a button linking to the owner's WhatsApp for easy communication and booking of services. The website was developed to provide a professional and user-friendly platform for customers to learn about and engage with the company's offerings.`,
+    roles: ["Senior Web developer"],
+  },
+  {
+    name: "Simps Homes",
+    link: "https://https://simpshomes.com/",
+    img: "simps.jpg",
+    description: `Simpshome is a real estate company that offers a web-based platform for booking appointments and renting properties. The website, developed using a content management system (CMS), features an administrative dashboard for managing content and updating information about the company and its offerings. The platform was designed to provide a convenient and efficient way for customers to interact with the company and access its services.`,
+    roles: ["Senior WordPress developer"],
+  },
+  {
+    name: "BigBen Fashion",
+    link: "https://www.outboxperience.com/",
+    img: "bigben.jpg",
+    description: `Big Ben Fashion is an e-commerce website developed using WordPress for an online fashion retail company. The website features a content management system (CMS) for managing and updating content, and was designed to provide a user-friendly platform for customers to browse and purchase fashion products.`,
+    roles: ["Lead Web developer"],
   },
   {
     name: "Weather-App",
