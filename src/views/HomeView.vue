@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="grid place-content-center p-8 css-selector clip-circle py-7">
+    <div class="grid place-content-center p-10 css-selector clip-circle py-7">
       <img class="rounded-full h-[400px]" src="@\assets\img\portlogo.png" />
     </div>
     <div class="flex justify-center items-center sm:px-10">
