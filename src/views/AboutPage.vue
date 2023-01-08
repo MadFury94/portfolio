@@ -52,11 +52,6 @@ const contacts = [
     image: "fab fa-linkedin",
   },
 
-  /*  {
-    social: "Twitter",
-    link: "",
-    image: "fab fa-twitter",
-  },*/
   {
     social: "Onochieazukaeme@gmail.com",
     link: "mailto:onochieazukaeme@gmail.com?Subject=Enquiry",

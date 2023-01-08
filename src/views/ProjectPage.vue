@@ -30,11 +30,6 @@
                 :src="`/images/projects/${item.img} `"
                 @load="imageLoaded"
               />
-              <!--              :src="`public/images/projects/${item.img}`"-->
-              <!--              <div
-                class="bg-[#1d4550] rounded-md opacity-75 hover:opacity-0 absolute top-0 bottom-0 left-0 transition duration-500 ease-in-out"
-                style="width: 500px; height: 300px"
-              ></div>-->
             </div>
           </a>
         </div>
@@ -121,11 +116,6 @@
                 style="width: 500px; height: 300px"
                 :src="`/images/projects/${item.img} `"
               />
-              <!--              :src="`public/images/projects/${item.img}`"-->
-              <!--              <div
-                class="bg-[#1d4550] rounded-md opacity-75 hover:opacity-0 absolute top-0 bottom-0 left-0 transition duration-500 ease-in-out"
-                style="width: 500px; height: 300px"
-              ></div>-->
             </div>
           </a>
         </div>
@@ -292,7 +282,6 @@ function isOddNumber(num: number) {
   return num % 2 !== 0;
 }
 function isEven(value: number) {
-  // return !(value % 2);
   return value % 2 !== 0;
 }
 </script>
