@@ -198,14 +198,21 @@ const projects = ref([
     link: "https://anbenig.com",
     img: "anbe.jpg",
     description: `I have extensive experience in website design and development, as demonstrated by my work on a WordPress website for Anbe Nigeria. Using the Divi theme, I was able to create a visually appealing and user-friendly website consisting of 13 pages. The design process began with a Figma prototype, which was then refined and developed using WordPress and the Divi theme. My strong attention to detail and ability to work efficiently ensured that the final website met all of the client's requirements and was launched successfully.`,
-    roles: ["Ideation,", "Design,", "Ui / Ux, ", "Frontend"],
+    roles: [
+      "Ideation,",
+      "Design,",
+      "Ui / Ux, ",
+      "Frontend, Backend",
+      "WordPress",
+      "Content-Writing",
+    ],
   },
   {
     name: "H2O Doorstep Water Delivery",
     link: "https://h2o.ng",
     img: "h2o.jpg",
     description: `H2O is an e-commerce application that allows customers to purchase water products online. It was developed using Vue.js and Figma was utilized for prototyping, wireframing, and ideation during the development process`,
-    roles: ["Ideation,", "Design,", "Ui / Ux, ", "Frontend"],
+    roles: ["Ideation,", "Design,", "Ui / Ux, ", "Frontend", "Content-Writing"],
   },
   {
     name: "Grand Eagle Travels",
@@ -215,35 +222,41 @@ const projects = ref([
 
     description: `Grand Eagle Travels is a web-based travel agency application that allows users to book and process travel destinations with the agency. It features an administrator dashboard for managing travel destinations and processing personal information, as well as a user dashboard for users to provide information and manage their destination. The application was developed to provide a convenient and efficient platform for booking travel arrangements.`,
 
-    roles: ["Ideation,", "Ui / Ux, ", "Frontend,", "Backend "],
+    roles: [
+      "Ideation,",
+      "Ui / Ux, ",
+      "Frontend,",
+      "Backend ",
+      "Content-Writing",
+    ],
   },
   {
     name: "Wildstream Music",
     link: "https://www.wildstream.ng/",
     img: "wildstream.jpg",
     description: `Wildstream Music is a Nigeria-based music streaming service that offers a platform for local and international artists to share their work. It has been nicknamed the "Soundcloud of Nigeria" due to its large size and daily uploads of over 1000 songs. The service has been designed with a focus on user experience and interface design, with the goal of providing an enjoyable and easy-to-use platform for music discovery and streaming.`,
-    roles: ["Design,", "Ui / Ux,"],
+    roles: ["Design,", "Ui / Ux,", "Content-Writing"],
   },
   {
     name: "Katalyst Technologies",
     link: "https://katalyst.tech/",
     img: "katalyst.jpg",
     description: `Katalyst Technologies is a company website developed using WordPress. It features an administrative dashboard for managing and updating content about the company on the website. The website was designed to provide information about the company and its services to visitors in a professional and user-friendly manner.`,
-    roles: ["Web developer"],
+    roles: ["Web developer, ", "WordPress", "Content-Writing"],
   },
   {
     name: "Sprynx Multi",
     link: "https://www.sprynxmulti.com/",
     img: "sprynxmulti.jpg",
     description: `Sprynx Multi is a WordPress-based company website that offers a range of car washing services. It includes an administrative dashboard for managing and updating content on the website, as well as a button linking to the owner's WhatsApp for easy communication and booking of services. The website was developed to provide a professional and user-friendly platform for customers to learn about and engage with the company's offerings.`,
-    roles: ["Senior Web developer"],
+    roles: ["Senior Web developer", "Content-Writing"],
   },
   {
     name: "Simps Homes",
     link: "https://https://simpshomes.com/",
     img: "simps.jpg",
     description: `Simpshome is a real estate company that offers a web-based platform for booking appointments and renting properties. The website, developed using a content management system (CMS), features an administrative dashboard for managing content and updating information about the company and its offerings. The platform was designed to provide a convenient and efficient way for customers to interact with the company and access its services.`,
-    roles: ["Senior WordPress developer"],
+    roles: ["Senior WordPress developer", "Content-Writing"],
   },
   {
     name: "BigBen Fashion",
@@ -265,7 +278,7 @@ const projects = ref([
     img: "port.jpg",
     github: "https://github.com/MadFury94/portfolio.git",
     description: `My Portfolio website that  displays my work and my skills. it features a light and dark mode, for users with accessibility challenges`,
-    roles: ["Ideation,", "Design,", "Ui / Ux, ", "Frontend"],
+    roles: ["Ideation,", "Design,", "Ui / Ux, ", "Frontend", "Content-Writing"],
   },
 ]);
 
