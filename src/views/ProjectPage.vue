@@ -186,7 +186,7 @@ const projects = ref([
   {
     name: "Anbe Nigeria Ltd",
     link: "https://anbenig.com",
-    img: "h2o.jpg",
+    img: "anbe.jpg",
     description: `I have extensive experience in website design and development, as demonstrated by my work on a WordPress website for Anbe Nigeria. Using the Divi theme, I was able to create a visually appealing and user-friendly website consisting of 13 pages. The design process began with a Figma prototype, which was then refined and developed using WordPress and the Divi theme. My strong attention to detail and ability to work efficiently ensured that the final website met all of the client's requirements and was launched successfully.`,
     roles: [
       "Ideation,",
@@ -195,6 +195,21 @@ const projects = ref([
       "Frontend, Backend",
       "WordPress",
       "Content-Writing",
+    ],
+  },
+  {
+    name: "Tracker Shop",
+    link: "https://www.trackershop.com.ng/",
+    img: "tracker.jpg",
+    description: `I have extensive experience in website design and development, as demonstrated by my work on the Tracker Shop website, the No.1 GPS Fleet & Car Tracker Installer in Nigeria. Using the Hello Elementor theme, I was able to create a visually appealing and user-friendly website consisting of 13 pages. The design process began with a Figma prototype, which was then refined and developed using WordPress and the Hello Elementor theme. My strong attention to detail and ability to work efficiently ensured that the final website met all of the client's requirements and was launched successfully. The Tracker Shop website is now a reliable and professional online presence for the company, helping them reach new customers and grow their business.`,
+    roles: [
+      "Ideation,",
+      "Design,",
+      "Ui / Ux, ",
+      "Frontend, Backend",
+      "WordPress",
+      "Content-Writing",
+      "Elementor",
     ],
   },
   {
@@ -228,10 +243,10 @@ const projects = ref([
     roles: ["Design,", "Ui / Ux,", "Content-Writing"],
   },
   {
-    name: "Katalyst Technologies",
-    link: "https://katalyst.tech/",
-    img: "katalyst.jpg",
-    description: `Katalyst Technologies is a company website developed using WordPress. It features an administrative dashboard for managing and updating content about the company on the website. The website was designed to provide information about the company and its services to visitors in a professional and user-friendly manner.`,
+    name: "Hensek Group",
+    link: "http://www.hensekgroup.com/",
+    img: "hensek.jpg",
+    description: `I have a successful track record in website design and development, as demonstrated by my work on the Hensek Construction Company website. Utilizing the Hello Elementor theme, I was able to create a visually appealing and user-friendly website that effectively showcases the company's services and portfolio. My design process always begins with a Figma prototype, which I then refine and develop using WordPress and the Hello Elementor theme. My strong attention to detail and efficient work ethic ensured that the final website met all of the client's requirements and was launched successfully. The Hensek Construction Company website is now a professional online presence that helps the company attract new clients and grow their business in the construction industry.`,
     roles: ["Web developer, ", "WordPress", "Content-Writing"],
   },
   {
@@ -240,6 +255,13 @@ const projects = ref([
     img: "sprynxmulti.jpg",
     description: `Sprynx Multi is a WordPress-based company website that offers a range of car washing services. It includes an administrative dashboard for managing and updating content on the website, as well as a button linking to the owner's WhatsApp for easy communication and booking of services. The website was developed to provide a professional and user-friendly platform for customers to learn about and engage with the company's offerings.`,
     roles: ["Senior Web developer", "Content-Writing"],
+  },
+  {
+    name: "Harriet Travels",
+    link: "https://harriettravels.co.za/",
+    img: "harriet.jpg",
+    description: `Harriet Travels is a professional travel agency website developed using WordPress. The website offers a range of travel services and includes an administrative dashboard for managing and updating content on the site. Customers can easily communicate with the agency and book services through a convenient WhatsApp button. The website was designed to provide a user-friendly platform for customers to learn about and engage with the company's travel offerings. Harriet Travels is now able to effectively showcase their services and reach new customers through their professional and reliable online presence.`,
+    roles: ["Senior Web developer", "Content-Writing", "WordPress"],
   },
   {
     name: "Simps Homes",
