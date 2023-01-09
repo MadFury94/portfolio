@@ -17,7 +17,7 @@
             class="rounded-md"
             :href="item.link"
           >
-            <div class="relative rounded-full order-1">
+            <div class="relative rounded-md order-1">
               <div
                 v-show="!showImage"
                 :class="isEven(index) ? 'lg:rounded-l-2xl' : 'lg:rounded-r-2xl'"
@@ -47,7 +47,7 @@
             </h1>
 
             <div :class="isOddNumber(index) ? 'text-left' : 'lg:text-right'">
-              <div class="bg-gray-100 dark:bg-gray-700 rounded-full p-4">
+              <div class="bg-gray-100 dark:bg-gray-700 rounded-md p-4">
                 <div>
                   <p class="">{{ item.description }}</p>
                 </div>
@@ -110,7 +110,7 @@
             class="rounded-md"
             :href="item.link"
           >
-            <div class="relative rounded-full order-1">
+            <div class="relative lg:rounded-md rounded-md order-1">
               <img
                 class="rounded-md pb-8"
                 style="width: 500px; height: 300px"
@@ -128,7 +128,9 @@
           </h1>
 
           <div :class="isOddNumber(index) ? 'text-left' : 'lg:text-right'">
-            <div class="bg-gray-100 dark:bg-gray-700 rounded-xl p-4">
+            <div
+              class="bg-gray-100 dark:bg-gray-700 rounded-md lg:rounded-md p-4"
+            >
               <div>
                 <p>{{ item.description }}</p>
               </div>
