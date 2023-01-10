@@ -59,7 +59,7 @@ const experiences = ref([
       "Conceptualized and designed WebApps prototypes using UX/UI frameworks such as Figma, Pen Pots, and Adobe Illustrator. ",
       "Contributed to MobileApp Development, resulting in a 29% increase in e-commerce sales.",
       "Trained over 50 staff members on inner website functions.",
-      "Developed websites from front to backend using Vue js, Node js, and Mongodb.",
+      "Developed websites from front to backend using Vue js, Node js, and Mongodb. ",
       "Built responsive websites using HTML, CSS, JavaScript, WordPress, Magento, and modern front-end technologies such as VueJs from prototypes that I designed.",
     ],
   },
