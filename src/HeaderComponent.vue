@@ -14,7 +14,7 @@
           :key="index"
         >
           <li class="flex items-center space-x-1">
-            <router-link class="px-2 menu-text" :to="item.link">
+            <router-link class="px-2 text-white" :to="item.link">
               <i :class="item.icon"></i>
               <span class="capitalize pl-2 hidden lg:inline">{{
                 item.title
