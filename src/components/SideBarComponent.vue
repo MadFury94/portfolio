@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex bg-gray-700 h-screen justify-center items-center regular-text border-r border-r-slate-200"
+    class="flex dark:bg-gray-700 h-screen justify-center items-center border-r dark:border-r-slate-200 border-r-slate-700"
   >
     <div>
       <AppLogo />
@@ -8,7 +8,7 @@
         <ul v-for="(item, index) in menuItems" :key="index">
           <li class="flex items-center">
             <router-link
-              class="pl-4 text-left capitalize hidden md:block menu-text"
+              class="pl-4 text-left capitalize hidden md:block dark:text-white"
               :to="{ name: item.name }"
             >
               <i :class="item.icon"></i> {{ item.title }}</router-link

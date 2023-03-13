@@ -56,19 +56,24 @@
     </div>
     <div class="big-title items-start place-content-start">
       <div class="" v-for="(item, index) in workItem" :key="index">
-        <div class="big-title text-center">
+        <div class="text-center">
           View some of my
           <router-link
-            class="py-20 big-title capitalize decoration-slate-900 hover:text-slate-900 cursor-pointer"
+            class="py-20 capitalize text-green-500 underline cursor-pointer"
             :to="{ name: item.name }"
           >
-            <i :class="item.icon"></i> {{ item.title }}</router-link
+            {{ item.title }}</router-link
           >
         </div>
       </div>
     </div>
 
-    <div v-if="false" class="py-10 bg-red-500">Carousel of work</div>
+    <div v-if="false" class="py-10 grid grid-cols-4 md:grid-cols-1">
+      <div class="bg-green-300">red</div>
+      <div class="bg-black">red</div>
+      <div class="bg-white">red</div>
+      <div class="bg-yellow-400">red</div>
+    </div>
   </div>
 </template>
 <script setup lang="ts">

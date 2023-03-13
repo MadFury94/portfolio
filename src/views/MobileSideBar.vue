@@ -27,7 +27,7 @@
           leave-to="-translate-x-full"
         >
           <div
-            class="relative flex-1 flex flex-col max-w-xs w-full pt-5 pb-4 bg-gray-800"
+            class="relative flex-1 flex flex-col max-w-xs w-full pt-5 pb-4 bg-white dark:bg-gray-700"
           >
             <TransitionChild
               as="template"
