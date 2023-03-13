@@ -188,7 +188,7 @@ const projects = ref([
   {
     name: "Anbe Nigeria Ltd",
     link: "https://anbenig.com",
-    img: "anbe.jpg",
+    img: "anbenig.jpg",
     description: `I have extensive experience in website design and development, as demonstrated by my work on a WordPress website for Anbe Nigeria. Using the Divi theme, I was able to create a visually appealing and user-friendly website consisting of 13 pages. The design process began with a Figma prototype, which was then refined and developed using WordPress and the Divi theme. My strong attention to detail and ability to work efficiently ensured that the final website met all of the client's requirements and was launched successfully.`,
     roles: [
       "Ideation,",
