@@ -1,6 +1,6 @@
 <template>
   <div class="py-20">
-    <h1 class="title font-bold">My Portfolio</h1>
+    <h1 class="title text-indigo-500 font-bold">My Portfolio</h1>
     <div class="hidden lg:inline">
       <div
         v-for="(item, index) in projects"

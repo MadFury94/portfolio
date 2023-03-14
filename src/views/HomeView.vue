@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="grid place-content-center p-10 clip-circle css-selector py-7">
+    <div class="grid place-content-center clip-circle css-selector py-7">
       <div class="aspect-w-1 aspect-h-1">
         <img
           class="object-cover h-48 w-48 rounded-full"
@@ -119,11 +119,11 @@ const contacts = [
 function downloadResume() {
   const link = document.createElement("a");
   link.href = new URL(
-    "../downloads/front-end-developer.pdf",
+    "../downloads/Brian-Azukaeme-CV.pdf",
     import.meta.url
   ).href;
 
-  link.download = "front-end-developer.pdf";
+  link.download = "Brian-Azukaeme-CV.pdf";
 
   link.click();
 }

@@ -84,7 +84,9 @@ let categories = ref({
     { title: "Netlify", image: "" },
     { title: "WordPress", image: "" },
   ],
-  Design: [
+  "Writing & Design": [
+    { title: "Copywriting & Editing", image: "" },
+    { title: "Proofreading & Researching", image: "" },
     { title: "Adobe Photoshop", image: "" },
     { title: "Adobe Illustrator", image: "" },
     { title: "Adobe XD", image: "" },
@@ -93,7 +95,10 @@ let categories = ref({
     { title: "Wireframing", image: "" },
   ],
   Tools: [
+    { title: "Trello", image: "" },
     { title: "Git", image: "" },
+    { title: "Grammarly", image: "" },
+    { title: "Google Docs", image: "" },
     { title: "GitHub", image: "" },
     { title: "Webstorm", image: "" },
     { title: "Stackbliz", image: "" },
