@@ -232,7 +232,7 @@ const projects = ref([
     roles: [
       "Ideation,",
       "Ui / Ux, ",
-      "Frontend designs,",
+      "Frontend design,",
       "Backend ",
       "Content-Writing",
     ],
